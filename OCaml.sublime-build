@@ -1,0 +1,5 @@
+{
+	"cmd": ["ocamlcr.sh", "$file_base_name"],
+	"selector": "source.ml",
+	"working_dir": "${file_path}"
+}
